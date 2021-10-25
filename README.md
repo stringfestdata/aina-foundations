@@ -1,2 +1,3 @@
-# aina-excel-foundations
-Resources for Advancing into Analytics: Excel Foundations webinar
+# Resources for _Advancing into Analytics_: Excel Foundations webinar
+
+![Cover](images/cover.png)
