@@ -1,3 +1,3 @@
-# Resources for _Advancing into Analytics_: Excel Foundations webinar
+# Resources for _Advancing into Analytics_: Foundations webinar
 
 ![Cover](images/cover.png)
